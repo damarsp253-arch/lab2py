@@ -60,10 +60,11 @@ lalu masukan pada repository baru
 
 * setelah repository berhasil dibuat, salin link repository-nya
 contohnya:
-"https://github.com/username/lab1py.git"
+"https://github.com/username/lab2py.git"
 
-* hubungkan repository lokal ke repository GitHub dengan cara ketik "git remote add origin https://github.com/username/lab1py.git"
+* hubungkan repository lokal ke repository GitHub dengan cara ketik "git remote add origin https://github.com/username/lab2py.git"
 
 * ubah nama branch menjadi main dengan cara ketik "git branch -M main"
 
 * upload (push) folder lab1py ke GitHub dengan cara ketik "git push -u origin main"
+
